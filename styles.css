@@ -14,3 +14,12 @@ img {
 .method {
     background-color: slategrey;
 }
+
+.description {
+    background-color: black;
+    color: antiquewhite;
+}
+
+h1, h2{
+    text-align: center;
+}
