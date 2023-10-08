@@ -1,0 +1,16 @@
+* {
+    font-family: monospace;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.ingredients {
+    background-color: darkgoldenrod;
+}
+
+.method {
+    background-color: slategrey;
+}
